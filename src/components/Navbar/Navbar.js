@@ -8,7 +8,7 @@ import TessGompperResume from "./Documents/TessGompperResume.pdf";
 
 export default function Navbar()  {
     const [click, setClick] =  useState(false);
-    const [setButton] = useState(true);
+    const [button, setButton] = useState(true);
 
     const handleClick = () => setClick(!click);
     const closeMobileMenu = () => setClick(false);
