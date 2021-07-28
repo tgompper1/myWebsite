@@ -13,7 +13,7 @@ function Footer() {
         <div className = 'footer-container'>
             <section className = 'contact-links'>
                 <div className = 'contact-links-wrap'>
-                <div className='footer-logo'>
+                    <div className='footer-logo'>
                         <Link to ='/' className='contact-logo'>
                             <h1 className = 'navbar-logo'>
                                 TessGompper 
@@ -48,14 +48,14 @@ function Footer() {
                             >
                                 <FaCodepen/>
                         </Link>
-                        <Link
+                        {/* <Link
                             className='contact-icon-link'
                             to={'//codepen.io/tgompper'}
                             target='_blank'
                             aria-label='Email'
                             >
                                 <HiOutlineMail/>
-                        </Link>
+                        </Link> */}
                     </div>
                 </div>
             </section>
