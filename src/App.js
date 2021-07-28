@@ -10,18 +10,17 @@ import About from './components/pages/About/About';
 
 function App() {
   return (
-    <header><h1>yuh</h1></header>
-   // <Router>
-      
-     // <Navbar/>
- //     <Switch>
-   //     <Route path = '/' exact component ={Home}/>
-     //   <Route path = '/projects' component= {Projects}/>
-       // <Route path = '/experience' component= {Experience}/>
- //       <Route path = '/about' component = {About}/>
-   //   </Switch>
-     // <Footer/>
-   // </Router>
+    //<header><h1>yuh</h1></header>
+    <Router>
+      <Navbar/>
+      <Switch>
+        <Route path = '/' exact component ={Home}/>
+        <Route path = '/projects' component= {Projects}/>
+        <Route path = '/experience' component= {Experience}/>
+        <Route path = '/about' component = {About}/>
+      </Switch>
+      <Footer/>   
+    </Router>
   );
 }
 
