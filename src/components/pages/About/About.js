@@ -7,7 +7,7 @@ function About() {
             <div class='bubble__container2'>
                 <div class='bubble'>
                     <h1>About Me</h1>  
-                    <p>blah blah blah</p>          
+                    <p>blah blah <a href="https://www.cs.mcgill.ca/"><nobr>My long sentence</nobr></a> bah</p>          
                 </div>
             </div>
         </div>
