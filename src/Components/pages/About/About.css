@@ -1,0 +1,38 @@
+.bubble__container{
+    background-color: #e3d7ff;
+    height:410px;
+    justify-content: center;
+    display:flex;
+    padding-top: 50px;
+}
+
+.bubble__container2{
+    background-color: #ddcdbe;
+    height: 350px;
+    width: 450px;
+    justify-content: center;
+    border-radius: 15px;    
+    align-items: center;
+    display: flex;
+}
+
+.bubble{
+    background-color: #fefaf7;
+    height: 300px;
+    width: 400px;
+    justify-content: center;
+    border-radius: 15px;    
+    align-items: center;
+}
+
+.bubble h1{
+    color: #000;
+    padding-left: 75px;
+    padding-top: 50px;
+}
+
+.bubble p{
+    color: #000;
+    padding-left: 75px;
+    padding-top: 5px;
+}
