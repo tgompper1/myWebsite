@@ -11,6 +11,7 @@ import About from './components/pages/About/About';
 function App() {
   return (
     <Router>
+      <header> yuh</header>
       <Navbar/>
       <Switch>
         <Route path = '/' exact component ={Home}/>
