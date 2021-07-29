@@ -66,7 +66,7 @@ export default function Navbar()  {
                             </li>
                             <li className = 'nav-item'>
                                <a className ='nav-links'
-                                    href= {TessGompperResume}
+                                    href= {TessGompperResume2021}
                                     target='_blank'>
                                     Resume
                                </a>
