@@ -1,6 +1,6 @@
 .bubble__container{
     background-color: #e3d7ff;
-    height:450px;
+    height:700px;
     justify-content: center;
     display:flex;
     padding-top: 50px;
@@ -33,6 +33,6 @@
 
 .bubble p{
     color: #000;
-    padding-left: 50px;
+    padding-left: 25px;
     padding-top: 5px;
 }
