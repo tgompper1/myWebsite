@@ -36,3 +36,7 @@
     padding-left: 15px;
     padding-top: 5px;
 }
+
+.aboutbubble a{
+    text-decoration: none;
+}
