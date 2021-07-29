@@ -5,7 +5,7 @@ import{
     FaLinkedin,
     FaGithub,
     FaCodepen
-} from 'react-icons/fa';
+    } from 'react-icons/fa';
 import {  HiOutlineMail } from 'react-icons/hi';
 
 function Footer() {
@@ -48,7 +48,7 @@ function Footer() {
                             >
                                 <FaCodepen/>
                         </Link>
-                        {/* <Link
+                         {/*<Link
                             className='contact-icon-link'
                             to={'//codepen.io/tgompper'}
                             target='_blank'
@@ -60,7 +60,7 @@ function Footer() {
                 </div>
             </section>
         </div>
-    );
+    )
 }
 
 export default Footer;
