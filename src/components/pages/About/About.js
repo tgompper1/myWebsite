@@ -3,9 +3,9 @@ import './About.css'
 
 function About() {
     return (
-        <div class='bubble__container'>
-            <div class='bubble__container2'>
-                <div class='bubble'>
+        <div class='aboutbubble__container'>
+            <div class='aboutbubble__container2'>
+                <div class='aboutbubble'>
                     <h1>About Me</h1>  
                     <p>Hi, my name is Tess Gompper and I am a current second year student majoring in 
                         computer science at <a href="https://www.cs.mcgill.ca/academic/undergrad/ba/"><nobr>McGill University</nobr></a> with an 

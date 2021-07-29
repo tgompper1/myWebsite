@@ -7,7 +7,7 @@ function Projects() {
     return (
         <>
            <HeroSection {...projectObjOne}/>
-           <HeroSection {...projectObjTwo}/>
+           {/* <HeroSection {...projectObjTwo}/> */}
         </>
     )
 }

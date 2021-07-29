@@ -1,12 +1,12 @@
-.bubble__container{
+.aboutbubble__container{
     background-color: #e3d7ff;
-    height:600px;
+    height:700px;
     justify-content: center;
     display:flex;
     padding-top: 50px;
 }
 
-.bubble__container2{
+.aboutbubble__container2{
     background-color: #ddcdbe;
     height: 450px;
     width: 450px;
@@ -16,7 +16,7 @@
     display: flex;
 }
 
-.bubble{
+.aboutbubble{
     background-color: #fefaf7;
     height: 400px;
     width: 400px;
@@ -25,13 +25,13 @@
     align-items: center;
 }
 
-.bubble h1{
+.aboutbubble h1{
     color: #000;
     padding-left: 75px;
     padding-top: 50px;
 }
 
-.bubble p{
+.aboutbubble p{
     color: #000;
     padding-left: 25px;
     padding-top: 5px;

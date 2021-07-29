@@ -6,7 +6,7 @@ function Experience() {
     return (
         <>
            <HeroSection {...experienceFord}/>
-           <HeroSection {...experienceObjTwo}/>
+           {/* <HeroSection {...experienceObjTwo}/> */}
         </>
     )
 }
