@@ -8,7 +8,7 @@
 
 .aboutbubble__container2{
     background-color: #ddcdbe;
-    height: 800px;
+    height: 900px;
     width: 700px;
     justify-content: center;
     border-radius: 15px;    
@@ -18,7 +18,7 @@
 
 .aboutbubble{
     background-color: #fefaf7;
-    height: 700px;
+    height: 800px;
     width: 600px;
     justify-content: center;
     border-radius: 15px;    
@@ -35,6 +35,8 @@
     color: #000;
     padding-left: 25px;
     padding-top: 10px;
+    text-indent: 25px;
+    text-decoration: none;
 }
 
 .aboutbubble a{

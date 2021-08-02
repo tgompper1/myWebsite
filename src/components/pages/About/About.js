@@ -23,12 +23,13 @@ function About() {
                         a programmer also gets the opportunity to make something unique and beautiful. This combination of precision and creativity
                         is one of the reasons I fell in love with Computer Science. I also consider myself to be very quick to learn. I am good at following directions 
                         and asking for help which makes me easy to teach. This past summer working at a coffee shop I was able to progress from cashier to fully
-                        trained barista in just 1 week of training. Though a simple example, this showcases my ability to learn quickly and efficiently. <br></br>
-                        In my spare time I enjoy hiking and exploring, reading, spending time with my cat, and trying out new food spots! I have figure skated almost my whole and 
+                        trained barista in just 1 week of training. Though a simple example, this showcases my ability to learn quickly and efficiently. </p>
+                        <p>In my spare time I enjoy hiking and exploring, reading, spending time with my cat, and trying out new food spots! I have figure skated almost my whole and 
                         am continuing skating for fun as a member of the McGill Figure Skating team. Throughout high school I worked with 
                         special needs athletes through figure skating as a coach and Unified Partner with Michigan Special Olympics and I am excited to continue 
                         my volunteering in Montreal. This fall I will be starting as a mentor with <a href= "https://www.montrealbeyondme.ca/"><nobr>Beyond Me Montreal</nobr></a> working 
                          one-on-one with a child with special needs! </p> 
+
                     </p>         
                 </div>
             </div>
