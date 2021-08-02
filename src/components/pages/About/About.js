@@ -26,7 +26,7 @@ function About() {
                         In my spare time I enjoy hiking and exploring, reading, spending time with my cat, and trying out new food spots! I have figure skated almost my whole and 
                         am continuing skating for fun as a member of the McGill Figure Skating team. Throughout high school I worked with 
                         special needs athletes through figure skating as a coach and Unified Partner with Michigan Special Olympics and I am excited to continue 
-                        my volunteering in Montreal. This fall I will be starting as a mentor with <a href= "https://www.montrealbeyondme.ca/"><nobr>Beyond Me Montreal</nobr> working</a>
+                        my volunteering in Montreal. This fall I will be starting as a mentor with <a href= "https://www.montrealbeyondme.ca/"><nobr>Beyond Me Montreal</nobr></a> working 
                          one-on-one with a child with special needs! </p>          
                 </div>
             </div>
