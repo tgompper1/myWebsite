@@ -8,8 +8,8 @@
 
 .homebubble__container2{
     background-color: #ddcdbe;
-    height: 350px;
-    width: 450px;
+    height: 900px;
+    width: 700px;
     justify-content: center;
     border-radius: 15px;    
     align-items: center;
@@ -18,8 +18,8 @@
 
 .homebubble{
     background-color: #fefaf7;
-    height: 300px;
-    width: 400px;
+    height: 850px;
+    width: 600px;
     justify-content: center;
     border-radius: 15px;    
     align-items: center;
