@@ -46,7 +46,9 @@
         width: 100%;
     }
 
-   
+   .homebubble__container2{
+       width: 50%;
+   }
     .homebubble{
         width: 50%;
     }
