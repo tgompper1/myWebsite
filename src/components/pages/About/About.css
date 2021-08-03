@@ -1,6 +1,6 @@
 .aboutbubble__container{
     background-color: #e3d7ff;
-    height: 975px;
+    height: 675px;
     justify-content: center;
     display:flex;
     padding-top: 50px;
@@ -44,6 +44,26 @@
 .aboutbubble a{
     text-decoration: none;
 }
+
+/* custom scrollbar */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #d6dee1;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #a8bbbf;
+  }
 
 @media screen and (max-width: 960px){
     .aboutbubble__container{
