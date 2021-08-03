@@ -6,7 +6,7 @@ export const experienceFord ={
     description: 'As an HSSTP intern I worked with the FordPass Guides team to learn about what goes into an app such as FordPass on the Product Management side of things. I then led indusrty research, value comparison, and business plan design for an in-app guidance feature in the FordPass app with my fellow HSSTP intern.',
     imgStart:'',
     img: '',
-    alt: 'image'
+    alt: 'ford-logo'
 };
 
 export const experienceObjTwo ={
