@@ -1,6 +1,6 @@
 import React from 'react';
 import HeroSection from '../../HeroSection/HeroSection';
-import {projectWebsite, projectShine} from '../Projects/Data';
+import {projectWebsite, projectShine, projectOpenWindows} from '../Projects/Data';
 
 /* eventually add menu of projects, drop down menu, snap scroll*/
 function Projects() {
@@ -8,6 +8,7 @@ function Projects() {
         <>
            <HeroSection {...projectWebsite}/>
            <HeroSection {...projectShine}/> 
+           <HeroSection {...projectOpenWindows}/>
         </>
     )
 }

@@ -22,6 +22,17 @@ export const projectShine ={
     alt: 'img'
 };
 
+export const projectOpenWindows ={
+    lightBg: false,
+    date: 'July 2021',
+    projectName: 'Open Windows vs AC Calculator',
+    projectTags: 'Java, Android Studio, JSON',
+    description: 'Inspired by my dad, this app uses indoor and outdoor temperatures and humidities to calculate whether you should turn on the air conditioning and close the windows, or turn off the air conditioning and open the windows. For this project I created a simple user interface using Android Studio and programmed all the calculations necessary. In order to get the correct response I converted a spreadsheet of water densities into a JSON file and used a JSONObjectREquest and a URL to access the data. Although the calculations were simple, learning how to read and navigate large JSON files from a URL made this an exciting and challenging project!',
+    imgStart:'row-reverse',
+    img: '',
+    alt: 'image'
+};
+
 export const project ={
     lightBg: true,
     lightText: false,
