@@ -7,8 +7,8 @@ function Projects() {
     return (
         <>
            <HeroSection {...projectWebsite}/>
-           <HeroSection {...projectShine}/> 
            <HeroSection {...projectOpenWindows}/>
+           <HeroSection {...projectShine}/> 
         </>
     )
 }

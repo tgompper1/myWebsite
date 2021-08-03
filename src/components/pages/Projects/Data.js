@@ -10,9 +10,7 @@ export const projectWebsite ={
 };
 
 export const projectShine ={
-    lightBg: true,
-    lightText: false,
-    lightTextDesc: false,
+    lightBg: false,
     date: '06/08/2020',
     projectName: 'Shine',
     projectTags: 'Android Studio, Figma, API, JSON, hackHer',
@@ -23,7 +21,9 @@ export const projectShine ={
 };
 
 export const projectOpenWindows ={
-    lightBg: false,
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
     date: 'July 2021',
     projectName: 'Open Windows vs AC Calculator',
     projectTags: 'Java, Android Studio, JSON',
