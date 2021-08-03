@@ -51,15 +51,15 @@
         justify-content: center;
         align-items: center;
         width: 100%;
-        height: 1000px;
+        height: 1700px;
     }
 
    .aboutbubble__container2{
        width: 80%;
-       height: 900px;
+       height: 1100px;
    }
     .aboutbubble{
-        height: 850px;
+        height: 1050px;
         width: 80%;
     }
 }
