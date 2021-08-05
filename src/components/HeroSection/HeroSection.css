@@ -84,6 +84,7 @@
   
   .home__hero-img-wrapper {
     max-width: 555px;
+    justify-content: center;
   }
   
   .home__hero-img {
