@@ -15,9 +15,9 @@ function About() {
                         to gain an uderstanding of the impact of communication technologies on people throughout history.</p>
                         <p>I was first introduced to computer science as a member of my high school Innovative Vehicle Design team. Working with two friends and a mentor from Ford Motor Company 
                         I programmed our vehicles ultrasonic blind spot detector and Inertial Measurment Unit. Being a part of this team
-                        taught me to love challenges and trying new things, it also gave me first hand experience of being a minority
-                        in STEM as a woman and has since motivated to me seek out as many opportunities as possible to meet more women like me. In my future at McGill I hope to work
-                        with the Women in CS club to create a more inclusive environment for women in CS at McGill!</p>
+                        taught me to love challenges and trying new things, it also gave me my first experience of being a minority
+                        in STEM as a woman. Now, as a member of <a href = "https://www.mcwics.com/"><nobr>McWiCS</nobr></a>, <a href = "https://rewritingthecode.org/"><nobr>Rewriting the Code</nobr></a> and <a href = "https://www.thewomens.network/"><nobr>The Women's Network</nobr></a>, 
+                        I'm always looking for more opportunities to meet and learn from more women in STEM!</p>
                         <p>I pride myself in on being a very creative person, I enjoy drawing and paiting as well as sewing and needlepoint. As a figure skater
                         I get to combine this creativity with precision which I find relates strongly to computer science: though creating something technical and precise 
                         a programmer also gets the opportunity to make something unique and beautiful. This combination of precision and creativity

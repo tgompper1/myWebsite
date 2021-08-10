@@ -1,6 +1,6 @@
 .homebubble__container{
     background-color: #e3d7ff;
-    height: 475px;
+    height:auto;
     justify-content: center;
     display:flex;
     padding-top: 50px;
