@@ -4,7 +4,7 @@ import './Navbar.css'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import { IconContext } from 'react-icons/lib'
 //import { Document} from 'react-pdf'
-import Gompper_Tess from "./Documents/Gompper_Tess.pdf";
+import Tess_Gompper_Resume_2021 from "./Documents/Tess_Gompper_Resume_2021.pdf";
 
 export default function Navbar()  {
     const [click, setClick] =  useState(false);
