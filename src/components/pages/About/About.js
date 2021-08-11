@@ -16,7 +16,7 @@ function About() {
                         <p>I was first introduced to computer science as a member of my high school Innovative Vehicle Design team. Working with two friends and a mentor from Ford Motor Company 
                         I programmed our vehicles ultrasonic blind spot detector and Inertial Measurment Unit. Being a part of this team
                         taught me to love challenges and trying new things, it also gave me my first experience of being a minority
-                        in STEM as a woman. Now, as a member of <a href = "https://www.mcwics.com/"><nobr>McWiCS</nobr></a>, <a href = "https://rewritingthecode.org/"><nobr>Rewriting the Code</nobr></a>, <a href = "https://www.thewomens.network/"><nobr>The Women's Network</nobr></a> and <a href = "https://www.linkedin.com/company/technolgap/?originalSubdomain=ca"><nobr>Technolgap</nobr></a> 
+                        in STEM as a woman. Now, as a member of <a href = "https://www.mcwics.com/"><nobr>McWiCS</nobr></a>, <a href = "https://rewritingthecode.org/"><nobr>Rewriting the Code</nobr></a>, <a href = "https://www.thewomens.network/"><nobr>The Women's Network</nobr></a> and <a href = "https://www.linkedin.com/company/technolgap/?originalSubdomain=ca"><nobr>Technolgap </nobr></a> 
                         I'm always looking for more opportunities to meet and learn from more women in STEM!</p>
                         <p>I pride myself in on being a very creative person, I enjoy drawing and paiting as well as sewing and needlepoint. As a figure skater
                         I get to combine this creativity with precision which I find relates strongly to computer science: though creating something technical and precise 
