@@ -1,3 +1,7 @@
+# Welcome
+This website is my personal portfolio and it was my first attempt at a website. I plan on updating, editing, and improving this site as I learn more about web dev and create new projects!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
