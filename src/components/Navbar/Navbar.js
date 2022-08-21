@@ -4,7 +4,7 @@ import './Navbar.css'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import { IconContext } from 'react-icons/lib'
 //import { Document} from 'react-pdf'
-import Tess_Gompper_Resume_2021 from "./Documents/Tess_Gompper_Resume_2021.pdf";
+import Tess_Gompper_Resume_2022_08 from "./Documents/Tess_Gompper_Resume_2022_08.pdf";
 
 export default function Navbar()  {
     const [click, setClick] =  useState(false);
@@ -66,7 +66,7 @@ export default function Navbar()  {
                             </li>
                             <li className = 'nav-item'>
                                <a className ='nav-links'
-                                    href= {Tess_Gompper_Resume_2021}
+                                    href= {Tess_Gompper_Resume_2022_08}
                                     target='_blank'>
                                     Resume
                                </a>

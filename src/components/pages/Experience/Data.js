@@ -4,8 +4,8 @@ export const experienceFord ={
     projectName: 'Product Management Intern at Ford Motor Company',
     projectTags: 'FordPass, In App Guidance, High School Science Technology Program',
     description: 'As an HSSTP intern I worked with the FordPass Guides team to learn about what goes into an app such as FordPass on the Product Management side of things. I then led indusrty research, value comparison, and business plan design for an in-app guidance feature in the FordPass app with my fellow HSSTP intern.',
-    imgStart:'',
-    img: '',
+    imgStart:'start',
+    img: 'images/ford-logo-2003.png',
     alt: 'ford-logo'
 };
 
@@ -17,8 +17,8 @@ export const experience84512022 ={
     projectName: 'Software Engineer Intern at 84.51°',
     projectTags: 'Python, PySpark, Git, Data Engineering, Data Observability',
     description: 'As an intern I worked as a member of the Data Observability team. I utilized python and pyspark to create data quality checks to be used internally by the company, and created an extensive abstract check template to simplify the process of check creation as much as possible for external team engineers',
-    imgStart:'',
-    img: '',
+    imgStart:'row-reverse',
+    img: 'images/84.51-logo.jpg',
     alt: '84.51-logo'
 };
 
