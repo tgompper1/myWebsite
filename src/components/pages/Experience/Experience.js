@@ -5,6 +5,7 @@ import {experienceFord, experienceObjTwo} from '../Experience/Data';
 function Experience() {
     return (
         <>
+           <HeroSection {...experience84512022}/>
            <HeroSection {...experienceFord}/>
            {/* <HeroSection {...experienceObjTwo}/> */}
         </>
